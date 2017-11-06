@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WalletPlusSuite">
+  <test name="WalletPlusTest">
+    <classes>
+      <class name="com.walletplus.tests.CreateAccountDDT"/>
+    </classes>
+  </test> <!-- WalletPlusTest -->
+</suite> <!-- WalletPlusSuite -->
