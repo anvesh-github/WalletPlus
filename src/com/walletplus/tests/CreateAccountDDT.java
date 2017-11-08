@@ -15,8 +15,8 @@ import com.walletplus.library.WalletAccountCreatePage;
 
 public class CreateAccountDDT extends WalletPlusConstants
 {
-	public String xlfile="D:\\QA Dept\\SE WorkSpace\\WalletPlusApp\\src\\com\\walletplus\\testdata\\Automation_sheet.xlsx";
-	public String xlsheet="createwalletdata";
+	public String xlfile=".\\src\\com\\walletplus\\testdata\\Automation_sheet.xlsx";
+	public String xlsheet="";
 	ExcelUtils xl=new ExcelUtils();
 	Object[][] data;
 	//public int j=1;
